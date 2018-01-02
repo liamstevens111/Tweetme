@@ -1,0 +1,438 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"currentOrder",
+				"currentOrderLat"
+			],
+			[
+				"currenta",
+				"currentClientAddress"
+			],
+			[
+				"curr",
+				"currentOrderLong"
+			],
+			[
+				"ge",
+				"getClientDetails"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"curre",
+				"currentQuantity"
+			],
+			[
+				"wid",
+				"widgetId"
+			],
+			[
+				"widge",
+				"widgetId"
+			],
+			[
+				"js",
+				"jsonobject"
+			],
+			[
+				"par",
+				"parseJSON"
+			],
+			[
+				"start",
+				"start_time"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"lef",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"mainMen",
+				"mainMenuButton"
+			],
+			[
+				"inn",
+				"inline-block"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"add",
+				"additionMenuId"
+			],
+			[
+				"main",
+				"mainMenuId"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"game",
+				"gameLoaded"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"canvas",
+				"canvasContext"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pretty json",
+				"Preferences: Pretty JSON Settings - Default"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 520.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/bountyhuntr/Desktop/Codium/Dev/env_Tweetme-Django"
+	],
+	"file_history":
+	[
+		"/C/Users/bountyhuntr/Desktop/Codium/Dev/env_Tweetme-Django/src/manage.py",
+		"/C/Users/bountyhuntr/Desktop/Codium/Dev/env_Tweetme-Django/src/tweetme/settings.py",
+		"/C/Users/bountyhuntr/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/bountyhuntr/AppData/Roaming/Sublime Text 3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/Assessment/EMA/Mobile App Cordova/MegaMaxApp/www/js/index.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/EMA/Solution/Website Solution/Working Iteration 1 (TMA03)/Release 1.3/scripts/main.js",
+		"/C/Users/bountyhuntr/Desktop/Web server/myfirst.js",
+		"/C/Users/bountyhuntr/Desktop/MEAN Auth App/node_modules/express/index.js",
+		"/C/Users/bountyhuntr/Desktop/hello world git/hello-world/index.html",
+		"/C/Users/bountyhuntr/Desktop/FileCreator/hello-world/INDEX.HTML",
+		"/C/Users/bountyhuntr/Desktop/MEAN Auth App/app.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/EMA/Solution/Website Solution/Working Iteration 1 (TMA03)/Release 1.3/styles.css",
+		"/C/Users/bountyhuntr/Desktop/bookmarks_12_8_17.html",
+		"/C/Users/bountyhuntr/Desktop/MEAN Auth App/routes/users.js",
+		"/C/Users/bountyhuntr/Desktop/MEAN Auth App/config/database.js",
+		"/C/Users/bountyhuntr/Desktop/MEAN Auth App/public/index.html",
+		"/C/Users/bountyhuntr/Desktop/MEAN Auth App/package.json",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/EMA/Solution/Website Solution/Working Iteration 1 (TMA03)/Release 1.3/index.html",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/EMA/Solution/Website Solution/Working Iteration 1 (TMA03)/Release 1.1/scripts/main.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/EMA/Solution/Website Solution/Working Iteration 1 (TMA03)/Release 1.2/scripts/main - fr1-3 test.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/EMA/Solution/Website Solution/Working Iteration 1 (TMA03)/Release 1.2/scripts/main - fr1-2 test.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/EMA/Solution/Website Solution/Working Iteration 1 (TMA03)/Release 1.2/scripts/main - fr1-1 test.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/EMA/Solution/Website Solution/Working Iteration 1 (TMA03)/Release 1.2/scripts/main.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 03/Output/Development Website/Release 1.3/index.html",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 03/Output/Development Website/Release 1.3/scripts/main.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/EMA/Solution/Website Solution/GUI - Menus and buttons (TMA02)/HTML Template/index.html",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/EMA/Solution/Website Solution/GUI - Menus and buttons (TMA02)/Updated Mockup Website/index.html",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 03/Output/Development Website/Release 1.3/styles.css",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 03/Output/Development Website/Release 1.2/scripts/main.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 03/Output/Development Website/New folder/index.html",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 03/Output/Development Website/Release 1.2/scripts/main - fr1-1 test.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 03/Output/Development Website/Release 1.2/scripts/main - fr1-2 test.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 03/Output/Development Website/Release 1.2/scripts/main - fr1-3 test.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 03/Output/Development Website/Release 1.1/index.html",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 03/Output/Development Website/Release 1.2/index.html",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 03/Output/Development Website/Release 1.2/styles.css",
+		"/C/Users/bountyhuntr/Desktop/main.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 03/Output/Development Website/New folder/scripts/main.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 03/Output/Development Website/New folder/styles.css",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 03/Output/Development Website/Release 1.1/scripts/main.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 03/Output/Development Website/scripts/main.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 03/Output/Development Website/Release 1.1/styles.css",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 03/Output/Development Website/index.html",
+		"/C/Users/bountyhuntr/AppData/Roaming/Sublime Text 3/Packages/User/html-html5skel.sublime-snippet",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 03/Output/Development Website/Updated Mockup Website/scripts/main.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 03/Output/Development Website/Updated Mockup Website/index.html",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 03/Output/Development Website/styles.css",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/MODULE RESULT/Play Immortal Hero Idle, a free online game on Kongregate_files/videojs_javascripts-d6f886b056757498cac6b5fcb9d956c8.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/MODULE RESULT/Play Immortal Hero Idle, a free online game on Kongregate_files/tr8n-compiled-420cb34e01c4c2be92c604bef07b4835.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/MODULE RESULT/Play Immortal Hero Idle, a free online game on Kongregate_files/8a21817551f0adbd1c7cfa3299f89897.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/MODULE RESULT/Play Immortal Hero Idle, a free online game on Kongregate.html",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 02/Solution/Updated Mockup Website/index.html",
+		"/C/Users/bountyhuntr/Desktop/wow.html",
+		"/C/Users/bountyhuntr/Desktop/New folder/popup.js",
+		"/C/Users/bountyhuntr/Desktop/New folder/popup.html",
+		"/C/Users/bountyhuntr/Desktop/New folder/Getting Started Extension's Popup.html",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/Math game solution/index.html",
+		"/C/Users/bountyhuntr/Desktop/1.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 02/Updated Website/index.html",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 02/Updated Website/scripts/main.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM470 - The computing and IT project/TMA 02/Updated Website/styles.css",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/Assessment/EMA/Mobile App Cordova/MegaMaxApp/www/index.html",
+		"/C/Users/bountyhuntr/Desktop/test.html",
+		"/C/Users/bountyhuntr/Desktop/MST/BANKS/TBank/test data/PromptPay/Rule13_1/Data/000000010.itq",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/Assessment/EMA/Output/Question 2/MegaMax Cordova Mobile App/www/js/jquery-1.5.0.mobile.min.js",
+		"/C/Users/bountyhuntr/Desktop/MST/BANKS/TBank/test data/PromptPay/PromptPay general ITQs (Event) - DC/00000001.itq",
+		"/C/Users/bountyhuntr/Desktop0.itq",
+		"/C/Users/bountyhuntr/Desktop/loaders/index.html",
+		"/C/Users/bountyhuntr/Desktop/me/Question 2/MegaMax Cordova Mobile App/www/js/index.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/Assessment/EMA/Output/Question 2/MegaMax Cordova Mobile App/www/js/index.js",
+		"/C/Users/bountyhuntr/Desktop/Mobile App Cordova/MegaMaxApp/www/index.html",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/Assessment/EMA/Output/Question 2/Mobile App Cordova/MegaMaxApp/www/js/index.js",
+		"/C/Users/bountyhuntr/Desktop/ema backup/www/js/index.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/Assessment/EMA/Output/Question 2/Mobile App Cordova/MegaMaxApp old backup/www/js/index.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/Assessment/EMA/Output/Question 2/Mobile App Cordova/MegaMaxApp old backup/www/index.html",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/Assessment/EMA/Output/Question 2/Mobile App Cordova/MegaMaxApp/www/index.html",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/Assessment/EMA/Output/Question 2/Mobile App Cordova/ema backup/www/js/index.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/Assessment/EMA/Output/Question 2/Mobile App Cordova/ema backup/www/index.html",
+		"/C/Users/bountyhuntr/Desktop/MegaMaxApp/www/index.html",
+		"/C/Users/bountyhuntr/Desktop/TM352_Mikes_maps/index.js",
+		"/C/Users/bountyhuntr/Desktop/TM352_Mikes_maps/index_OK_no_geoloc.js",
+		"/C/Users/bountyhuntr/Desktop/TM352_Mikes_SimpleApp/index_SA_completed.js",
+		"/C/Users/bountyhuntr/Desktop/TM352_Mikes_getWidget/index_GW.html",
+		"/C/Users/bountyhuntr/Desktop/TM352_Mikes_getWidget/index_GW.js",
+		"/C/Users/bountyhuntr/Desktop/MegaMaxApp/www/js/index.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/Assessment/TMA03/Input/TM352-TMA03-Solution/www/js/index.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/Assessment/TMA03/Input/TM352-TMA03-Solution/www/index.html",
+		"/C/Users/bountyhuntr/Desktop/ema backup/www/index.html",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/Assessment/EMA/Output/Question 2/Mobile App Cordova/MegaMaxApp/www/css/index.css",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/Assessment/EMA/Output/Question 2/Mobile App Cordova/MegaMaxApp/www/js/jquery-1.5.0.mobile.min.css",
+		"/C/Users/bountyhuntr/Desktop/index.html",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/Assessment/EMA/Output/Question 2/index.html",
+		"/C/Users/bountyhuntr/Desktop/New folder (2)/mockup.txt",
+		"/C/Users/bountyhuntr/Desktop/New folder (2)/mockup - online.txt",
+		"/C/Users/bountyhuntr/Desktop/mockup.xml",
+		"/C/Users/bountyhuntr/Desktop/Website attempt/index.html",
+		"/C/Users/bountyhuntr/AppData/Local/Temp/Rar$EXa0.406/www/index.html",
+		"/C/Users/bountyhuntr/Desktop/New folder (2)/www/js/index.js",
+		"/C/Users/bountyhuntr/Desktop/TM352-TMA03-Solution/www/js/index.js",
+		"/C/Users/bountyhuntr/Desktop/TM352-TMA03-Solution/www/index.html",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/Assessment/TMA03/Output/TM352-TMA03-Solution/www/js/index.js",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/Assessment/TMA03/Output/TM352-TMA03-Solution/www/index.html",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/Assessment/TMA03/Output/TM352-TMA03-Solution/www/css/index.css",
+		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/Assessment/TMA03/Output/TM352-TMA03-Solution/platforms/android/platform_www/cordova.js",
+		"/C/Users/bountyhuntr/Desktop/ourc.html",
+		"/C/Users/bountyhuntr/Desktop/testsite/index.html",
+		"/C/Users/bountyhuntr/Desktop/testsite/styles.css",
+		"/C/Users/bountyhuntr/Desktop/Udenmy Game/index.html",
+		"/C/Users/bountyhuntr/Desktop/New Text Document.html",
+		"/C/Users/bountyhuntr/Desktop/testsite/about.html",
+		"/C/Users/bountyhuntr/Desktop/testsite/scripts/main.js",
+		"/C/Users/bountyhuntr/Desktop/000000010.itq"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"liam"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tweetme.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
