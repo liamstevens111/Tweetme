@@ -147,6 +147,32 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/tweetme/settings/local.py",
+			"settings":
+			{
+				"buffer_size": 3362,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/tweetme/urls.py",
+			"settings":
+			{
+				"buffer_size": 941,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/bountyhuntr/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 21436,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -197,12 +223,19 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/bountyhuntr/Desktop/Codium/Dev/env_Tweetme-Django"
+		"/C/Users/bountyhuntr/Desktop/Codium/Dev/env_Tweetme-Django",
+		"/C/Users/bountyhuntr/Desktop/Codium/Dev/env_Tweetme-Django/src",
+		"/C/Users/bountyhuntr/Desktop/Codium/Dev/env_Tweetme-Django/src/tweetme",
+		"/C/Users/bountyhuntr/Desktop/Codium/Dev/env_Tweetme-Django/src/tweetme/settings"
 	],
 	"file_history":
 	[
-		"/C/Users/bountyhuntr/Desktop/Codium/Dev/env_Tweetme-Django/src/manage.py",
+		"/C/Users/bountyhuntr/Desktop/Codium/Dev/env_Tweetme-Django/src/tweetme/settings/__init__.py",
+		"/C/Users/bountyhuntr/Desktop/Codium/Dev/env_Tweetme-Django/src/tweetme/settings/base.py",
+		"/C/Users/bountyhuntr/Desktop/Codium/Dev/env_Tweetme-Django/src/tweetme/settings/local.py",
+		"/C/Users/bountyhuntr/Desktop/Codium/Dev/env_Tweetme-Django/src/tweetme/settings/production.py",
 		"/C/Users/bountyhuntr/Desktop/Codium/Dev/env_Tweetme-Django/src/tweetme/settings.py",
+		"/C/Users/bountyhuntr/Desktop/Codium/Dev/env_Tweetme-Django/src/manage.py",
 		"/C/Users/bountyhuntr/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
 		"/C/Users/bountyhuntr/AppData/Roaming/Sublime Text 3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
 		"/C/Users/bountyhuntr/Desktop/Study/Open University/Level 3/TM352 -16J - Web, mobile and cloud technologies/Assessment/EMA/Mobile App Cordova/MegaMaxApp/www/js/index.js",
@@ -316,7 +349,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -330,6 +363,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"BASE_DIR",
 			"liam"
 		],
 		"highlight": true,
@@ -348,8 +382,119 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/tweetme/settings/local.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2946,
+								2946
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1119.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/tweetme/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 941,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								799,
+								799
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/bountyhuntr/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -359,7 +504,7 @@
 	},
 	"input":
 	{
-		"height": 29.0
+		"height": 33.0
 	},
 	"layout":
 	{
