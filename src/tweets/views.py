@@ -1,11 +1,19 @@
+from django.contrib.auth.mixins import LoginRequiredMixin
 from django.shortcuts import render, get_object_or_404
-from django.views.generic import DetailView, ListView
+from django.views.generic import DetailView, ListView, CreateView
+from .forms import TweetModelForm
 from .models import Tweet
 
-# Create your views here.
+from .mixins import FormUserNeededMixin
 
 
 # Create
+
+class TweetCreateView(LoginRequiredMixin, FormUserNeededMixin, CreateView):
+	form_class = TweetModelForm
+	template_name = "tweets/create_view.html"
+	success_url = "/tweet/create/"
+	login_url = '/admin/'
 
 # Update
 
