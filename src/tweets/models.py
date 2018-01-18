@@ -1,4 +1,5 @@
 from django.conf import settings
+from django.urls import reverse
 from django.core.exceptions import ValidationError
 from django.db import models
 
@@ -21,3 +22,6 @@ class Tweet(models.Model):
 	# 	if content == "abc":
 	# 		raise ValidationError("Content cannot be ABC")
 	# 	return super(Tweet, self).clean(*args, **kwards)
+
+	def get_absolute_url(self):
+		return reverse("tweet:detail", kwargs = {"pk": self.pk})

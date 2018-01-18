@@ -1,1 +1,15 @@
-{{ object }}
+{% extends "base.html" %}
+{% block title %}Tweetme - Detail{% endblock title %}
+{% block content %}
+<div class='row'>
+	<div class='col-sm-3' style='background-color: yellow;'
+		<h1>{{ object.user }}</h1>
+	</div>
+	<div class='col-sm-9'>
+		{{ object }}<br/>
+		{{ object.content }}<br/>
+		{{ object.timestamp|timesince }} ago
+	</div>
+</div>
+
+{% endblock content %}
